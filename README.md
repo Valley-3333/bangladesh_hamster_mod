@@ -1,1 +1,3 @@
-# bangladesh_hamster_mod
+# バンハムMod
+
+## 皆で作ろうバンハムMod
